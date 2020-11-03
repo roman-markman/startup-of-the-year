@@ -131,3 +131,17 @@ h1 {
 	top: 100px; 
 	left: 120px; 
 }
+
+.message {
+	content: flex;
+	justify-content: center;
+}
+
+.audio {
+	display: flex;
+	justify-content: center;
+}
+
+.custom_style {
+	font-family: 'Patrick Hand SC', cursive;
+}
