@@ -41,6 +41,11 @@ hr  {
   border-width: 4px;
 }
 
+.btn-primary:hover {
+  border-width: 4px;
+}
+
+
 .btn-xl {
   padding: 1rem 2rem;
 }
